@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-import SimpleLightbox from "simplelightbox";
+import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const images = [
